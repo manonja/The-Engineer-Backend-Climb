@@ -1,4 +1,4 @@
-# Top-backend-DISSS - Fundamentals of Backend Engineering: 3-Month Hands-On Curriculum
+# Fundamentals of Backend Engineering: 3-Month Hands-On Curriculum
 
 Welcome to the **Mastering Backend Engineering** course! This is a free, open-source curriculum designed to level up your programming fundamentals in **Rust**, **Elixir**, and advanced backend system design. If you never used Rust or Elixir, this is your opportunity. 
 
