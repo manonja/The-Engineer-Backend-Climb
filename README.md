@@ -6,6 +6,25 @@ If you've written code in any programming language before, this book is for you�
 
 ---
 
+## Approach 
+
+This course was crafted with the guidance of a software engineer who spent 25 years building some of the most reliable systems in the industry. The goal is simple: take concepts that are usually hidden in dense textbooks or learned after years of trial and error, and break them down into practical, bite-sized lessons. We’ve drawn inspiration from legends like Andrew Tannenbaum, Donald Knuth, and Linus Torvalds—people who’ve shaped how software works—and adapted their wisdom to help you learn faster.
+
+This course is designed to meet you where you are and guide you to where you want to be—a confident senior backend engineer. 
+
+To get there, we’ll use the 80/20 rule to focus on the 20% of skills that will deliver 80% of the results. Along the way, we’ll rely on a method called DISS—deconstruct, isolate, synthesize, and solidify—to make even the hardest concepts feel straightforward and memorable.
+
+The important thing to keep in mind: the focus isn’t just on doing, but on thinking like a senior engineer. Every project also includes reflection prompts to help you step back, see the bigger picture, and understand how to adapt what you’ve learned to new problems. It’s not about turning you into a Rust or Elixir specialist. It’s about making sure you can pick up any language, any system, and build something great. What great engineers are amazing at! 
+
+## Why this course where AI is everywhere? Isn't obsololete?
+It’s tempting to think, “Why bother learning all this? I could just use AI.” And honestly, if your goal is to write boilerplate code, patch frameworks together, or lean on shortcuts, AI might be the better fit. But here’s the thing: AI is not replacing engineers who understand the fundamentals—it’s replacing those who don’t.
+
+AI is incredible for speeding up repetitive tasks, generating templates, or solving problems that are already well-defined. But what happens when you’re asked to debug a flaky system at scale, optimize an architecture under high load, or build something entirely new? AI won’t tell you how a thread scheduler works under the hood, why a distributed system fails in a specific way, or how to design a system that’s resilient to failure. That’s where engineers with strong fundamentals and the ability to think critically come in.
+
+If you want to spend your career collaborating with AI rather than being replaced by it, you need to understand how software really works—down to the protocols, the memory allocation, and the architectural tradeoffs. This course doesn’t just teach you how to build; it teaches you how to think, so you can leverage AI as a partner in your work, not a crutch.
+
+The truth is, AI is raising the bar for what it means to be a competent engineer. Mid-level developers who coast on surface-level knowledge will find themselves outpaced. But those who invest the time to master the core principles of backend development—who know how to deconstruct systems and make them better—will thrive in an AI-augmented world. If that’s the kind of engineer you want to be, this course is for you.
+
 ## Course Roadmap
 
 | Month | Topics Covered                  | Key Projects                               |
