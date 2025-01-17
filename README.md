@@ -6,6 +6,31 @@ The material is designed to be approachable for individuals with diverse program
 
 ---
 
+
+## Table of Contents
+1. [Approach](#approach)
+2. [Why this course where AI is everywhere? Isn't it obsolete?](#why-this-course-where-ai-is-everywhere-isnt-it-obsolete)
+3. [Course Roadmap](#course-roadmap)
+4. [Why Take This Course?](#why-take-this-course)
+5. [Who Is This For?](#who-is-this-for)
+6. [How to Use This Repository](#how-to-use-this-repository)
+7. [Showcase Your Work](#showcase-your-work)
+8. [Month 1: Core Systems & Infrastructure Fundamentals](#month-1-core-systems--infrastructure-fundamentals)
+    - [Module 1.1: Operating Systems & Networking Basics](#module-11-operating-systems--networking-basics)
+    - [Module 1.2: Data Structures, Algorithms & Concurrency Basics](#module-12-data-structures-algorithms--concurrency-basics)
+9. [Month 2: Advanced Programming Mastery](#month-2-advanced-programming-mastery)
+    - [Module 2.1: Deep Dive into Rust for Backend](#module-21-deep-dive-into-rust-for-backend)
+    - [Module 2.2: Mastering Elixir for Concurrency and Fault Tolerance](#module-22-mastering-elixir-for-concurrency-and-fault-tolerance)
+10. [Month 3: Architecture & Full-Stack Integration](#month-3-architecture--full-stack-integration)
+    - [Module 3.1: Architectural Patterns & Design Principles](#module-31-architectural-patterns--design-principles)
+    - [Module 3.2: End-to-End System Integration and Deployment](#module-32-end-to-end-system-integration-and-deployment)
+11. [Resources](#resources)
+    - [Books](#books)
+12. [How to Contribute](#how-to-contribute)
+13. [Join Us on Discord](#join-us-on-discord)
+
+
+
 ## Approach 
 
 Inspired by the [DiSSS](https://modelthinkers.com/mental-model/disss-learning) Learning Methodhology, this course is crafted with the guidance of a software engineer who spent 25 years building backend systems in the industry. The goal is simple: take concepts that are usually hidden in dense textbooks or learned after years of trial and error, and break them down into practical, bite-sized lessons. We’ve drawn inspiration from legends like Andrew Tannenbaum, Donald Knuth, and Linus Torvalds—people who’ve shaped how software works—and adapted their wisdom to help you learn faster.
