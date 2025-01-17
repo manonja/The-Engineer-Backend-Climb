@@ -2,13 +2,13 @@
 
 Welcome to the **Mastering Backend Engineering** course! This is a free, open-source curriculum designed to level up your programming fundamentals in **Rust**, **Elixir**, and advanced backend system design. If you never used Rust or Elixir, this is your opportunity. 
 
-If you've written code in any programming language before, this book is for you—no matter which language that might be. We've designed the material to be approachable for individuals with diverse programming experiences. However, we don’t delve into the basics of what programming is or how to think like a programmer. If you're completely new to programming, starting with an introductory book tailored for beginners would be more beneficial.
+The material is designed to be approachable for individuals with diverse programming experiences. However, we don’t delve into the basics of what programming is or how to think like a programmer. If you're completely new to programming, starting with an introductory book tailored for beginners would be more beneficial.
 
 ---
 
 ## Approach 
 
-This course was crafted with the guidance of a software engineer who spent 25 years building some of the most reliable systems in the industry. The goal is simple: take concepts that are usually hidden in dense textbooks or learned after years of trial and error, and break them down into practical, bite-sized lessons. We’ve drawn inspiration from legends like Andrew Tannenbaum, Donald Knuth, and Linus Torvalds—people who’ve shaped how software works—and adapted their wisdom to help you learn faster.
+Inspired by the [DiSSS](https://modelthinkers.com/mental-model/disss-learning) Learning Methodhology, this course is crafted with the guidance of a software engineer who spent 25 years building backend systems in the industry. The goal is simple: take concepts that are usually hidden in dense textbooks or learned after years of trial and error, and break them down into practical, bite-sized lessons. We’ve drawn inspiration from legends like Andrew Tannenbaum, Donald Knuth, and Linus Torvalds—people who’ve shaped how software works—and adapted their wisdom to help you learn faster.
 
 This course is designed to meet you where you are and guide you to where you want to be—a confident senior backend engineer. 
 
@@ -150,7 +150,7 @@ In the final month, you’ll learn **architectural design patterns**, **microser
 
 ## Resources
 
-### Books
+### Books 
 
 - **Operating Systems**: *Modern Operating Systems* by Andrew S. Tanenbaum
 - **Rust Programming**: *The Rust Programming Language* ("The Book")
@@ -167,3 +167,5 @@ In the final month, you’ll learn **architectural design patterns**, **microser
 ## How to Contribute
 
 We welcome contributions! See `CONTRIBUTING.md` for guidelines on how to submit issues, improve modules, or add new resources.
+
+## Join us on [Discord](https://discord.com/invite/tfh2ctk2)! 
