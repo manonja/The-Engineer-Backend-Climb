@@ -162,7 +162,7 @@ In the final month, you’ll learn **architectural design patterns**, **microser
 
 ### Books 
 
-**On Operating Systems & Networking:**
+- **On Operating Systems & Networking:**
     
     - [_Modern Operating Systems_ by **Andrew S. Tanenbaum**](https://csc-knu.github.io/sys-prog/books/Andrew%20S.%20Tanenbaum%20-%20Modern%20Operating%20Systems.pdf)
 
