@@ -51,9 +51,19 @@ The truth is, AI is raising the bar for what it means to be a competent engineer
 
 ## Who Is This For?
 
-- Software engineers who want to **master backend fundamentals**.
-- Engineers interested in **Rust, Elixir**, and distributed systems.
-- Intermediate to advanced developers ready for a challenge.
+YYou must have written code in another programming language. If you’re entirely new to programming, you would be better served by reading a book that specifically provides an introduction to programming.
+
+- **Aspiring Backend Engineers**: ready to level up.
+
+- **Engineers Curious About Rust and Elixir**: and work on hands-on experience in both.
+
+- **Mid-career programmers** looking to accelerate their careers and think like senior engineers.
+
+- **Developers Wanting to Future-Proof Their Skills**: and meaningfully differentiate themselves.
+
+- **Engineering Managers Returning to Code**: looking to sharpen your technical skills, deepen your understanding of backend fundamentals, and prepare you to lead technical teams with confidence.
+
+- **Big Tech workers** excited to build things from scratch again.
 
 ---
 
