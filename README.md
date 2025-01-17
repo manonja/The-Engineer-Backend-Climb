@@ -66,11 +66,11 @@ The truth is, AI is raising the bar for what it means to be a competent engineer
 
 ---
 
-## Why Take This Course?
+## Why Join The Curriculum?
 
 - **Build industry-relevant backend systems.**
-- **Get hands-on** with cutting-edge tools and frameworks like Rust, Elixir, Docker, and Kubernetes.
-- **Master core computer science concepts** that form the foundation of scalable backend systems.
+- **Get hands-on** with Rust, Elixir, Docker, and Kubernetes.
+- **Learn core computer science concepts** that form the foundation of scalable backend systems.
 
 ---
 
