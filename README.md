@@ -1,4 +1,4 @@
-# Fundamentals of Backend Engineering: 3-Month Hands-On Curriculum
+# Fundamentals of Backend Engineering: Hands-On Curriculum
 
 Welcome to the **Mastering Backend Engineering** course! This is a free, open-source curriculum designed to level up your programming fundamentals in **Rust**, **Elixir**, and advanced backend system design. If you never used Rust or Elixir, this is your opportunity. 
 
@@ -15,13 +15,13 @@ The material is designed to be approachable for individuals with diverse program
 5. [Who Is This For?](#who-is-this-for)
 6. [How to Use This Repository](#how-to-use-this-repository)
 7. [Showcase Your Work](#showcase-your-work)
-8. [Month 1: Core Systems & Infrastructure Fundamentals](#month-1-core-systems--infrastructure-fundamentals)
+8. [Module 1: Core Systems & Infrastructure Fundamentals](#month-1-core-systems--infrastructure-fundamentals)
     - [Module 1.1: Operating Systems & Networking Basics](#module-11-operating-systems--networking-basics)
     - [Module 1.2: Data Structures, Algorithms & Concurrency Basics](#module-12-data-structures-algorithms--concurrency-basics)
-9. [Month 2: Advanced Programming Mastery](#month-2-advanced-programming-mastery)
+9. [Module 2: Advanced Programming Mastery](#month-2-advanced-programming-mastery)
     - [Module 2.1: Deep Dive into Rust for Backend](#module-21-deep-dive-into-rust-for-backend)
     - [Module 2.2: Mastering Elixir for Concurrency and Fault Tolerance](#module-22-mastering-elixir-for-concurrency-and-fault-tolerance)
-10. [Month 3: Architecture & Full-Stack Integration](#month-3-architecture--full-stack-integration)
+10. [Module 3: Architecture & Full-Stack Integration](#month-3-architecture--full-stack-integration)
     - [Module 3.1: Architectural Patterns & Design Principles](#module-31-architectural-patterns--design-principles)
     - [Module 3.2: End-to-End System Integration and Deployment](#module-32-end-to-end-system-integration-and-deployment)
 11. [Resources](#resources)
@@ -33,7 +33,7 @@ The material is designed to be approachable for individuals with diverse program
 
 ## Approach 
 
-Inspired by the [DiSSS](https://modelthinkers.com/mental-model/disss-learning) Learning Methodhology, this course is crafted with the guidance of a software engineer who spent 25 years building backend systems in the industry. The goal is simple: take concepts that are usually hidden in dense textbooks or learned after years of trial and error, and break them down into practical, bite-sized lessons. We’ve drawn inspiration from legends like Andrew Tannenbaum, Donald Knuth, and Linus Torvalds—people who’ve shaped how software works—and adapted their wisdom to help you learn faster.
+Inspired by the [DiSSS](https://modelthinkers.com/mental-model/disss-learning) learning Methodhology, this course is crafted with the guidance of a software engineer who spent 25 years building backend systems in the industry. The goal is simple: take concepts that are usually hidden in dense textbooks or learned after years of trial and error, and break them down into practical, bite-sized lessons. We’ve drawn inspiration from legends like Andrew Tannenbaum, Donald Knuth, and Linus Torvalds—people who’ve shaped how software works—and adapted their wisdom to help you learn faster.
 
 This course is designed to meet you where you are and guide you to where you want to be—a confident senior backend engineer. 
 
@@ -94,7 +94,7 @@ YYou must have written code in another programming language. If you’re entirel
 
 ## How to Use This Repository
 
-1. **Start with Month 1**: Begin with foundational concepts in systems and infrastructure.
+1. **Start with Module 1**: Begin with foundational concepts in systems and infrastructure.
 2. **Complete Hands-On Projects**: Each module includes practical projects to solidify your understanding.
 3. **Reflect**: Use the provided reflection prompts to deepen your learning.
 4. **Engage with the Community**: Join discussions, share progress, and ask questions.
@@ -107,7 +107,7 @@ Submit your completed projects via **Pull Requests** to be featured in the **Sho
 
 ---
 
-### Month 1: Core Systems & Infrastructure Fundamentals
+### Module 1: Core Systems & Infrastructure Fundamentals
 
 #### Overview
 In the first month, you’ll build a solid foundation in **operating systems** and **networking concepts**, as well as key **data structures** and **concurrency principles**. These skills will prepare you for advanced backend challenges.
@@ -133,7 +133,7 @@ In the first month, you’ll build a solid foundation in **operating systems** a
 
 ---
 
-### Month 2: Advanced Programming Mastery
+### Module 2: Advanced Programming Mastery
 
 #### Overview
 The second month focuses on **advanced programming techniques** using **Rust** and **Elixir**. Master concurrency, fault tolerance, and memory safety.
@@ -158,7 +158,7 @@ The second month focuses on **advanced programming techniques** using **Rust** a
 
 ---
 
-### Month 3: Architecture & Full-Stack Integration
+### Module 3: Architecture & Full-Stack Integration
 
 #### Overview
 In the final month, you’ll learn **architectural design patterns**, **microservices**, and **full-stack integration**, bringing all the previous lessons together.
@@ -231,6 +231,7 @@ In the final month, you’ll learn **architectural design patterns**, **microser
 
 ## How to Contribute
 
-We welcome contributions! See `CONTRIBUTING.md` for guidelines on how to submit issues, improve modules, or add new resources.
+Right now, I’m testing and refining the curriculum as I go, learning from the process myself. I’m a big open source fan, so contributions and feedbacks are welcomed. People can also join the [Discord Channel](https://discord.com/invite/tfh2ctk2)! 
 
-## Join us on [Discord](https://discord.com/invite/tfh2ctk2)! 
+
+ 
