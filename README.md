@@ -4,6 +4,7 @@ Welcome to **Backend Climb**! This is a free, open-source curriculum for enginee
 
 The material is designed to be approachable for individuals with diverse programming experiences. However, if you're completely new to programming, starting with an introductory book tailored for beginners would be more beneficial.
 
+Read the Manifesto [here](https://fluoridated-fighter-1dd.notion.site/The-Backend-Climb-Manifesto-1aea4e58ec7b807aa042e441174af4cd)
 ---
 
 
